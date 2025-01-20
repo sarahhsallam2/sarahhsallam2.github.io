@@ -21,7 +21,7 @@ export const AboutMe = () => {
                 Beyond coding, I enjoy exploring emerging technologies, reading about space exploration, and engaging in outdoor adventures. Let's connect and collaborate on something impactful!
               </p>
               <p> 
-              You can view my detailed CV here: <a href="https://drive.google.com/file/d/1oqPpwkX--C65y_zycjGUIJlFG8ThC0q0/view?usp=drive_link" target="_blank" rel="noopener noreferrer">My CV</a>
+              You can view my detailed CV here: <a href="https://drive.google.com/file/d/1YeMeznDJ1XN8GSntheQCKLAF_ldH5GR5/view?usp=sharing" target="_blank" rel="noopener noreferrer">My CV</a>
 
               </p>
 
