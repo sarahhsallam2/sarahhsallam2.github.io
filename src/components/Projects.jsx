@@ -11,6 +11,11 @@ import l9 from "../assets/img/l9.png";
 import Diablo from  "../assets/img/Diablo.png";
 import skyRoad from  "../assets/img/sky roads.png";
 import space from  "../assets/img/space.png";
+import argame from  "../assets/img/argame.png";
+import vrgame from  "../assets/img/vrgame.png";
+import marker from  "../assets/img/marker1.webp";
+import wizard from  "../assets/img/wizard.png";
+
 import myprofile from "../assets/img/myprofile.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
@@ -63,7 +68,7 @@ export const Projects = () => {
     },
     {
       title: "Space Exploration Game",
-      description: "An immersive space exploration game that allows users to explore planetary scenes and interact with spacecraft, providing an engaging and educational experience. This was created using Unity and Oculus Quest as VR.",
+      description: "An immersive space exploration game that allows users to explore planetary scenes and interact with spacecraft, providing an educational experience. This was created with Oculus Quest as VR.",
       imgUrl: l4,
       linkText: " Learn more about the code for the Space Exploration Game",
       linkUrl: "https://github.com/sarahhsallam2/Space-Exploration-Game"
@@ -89,6 +94,49 @@ export const Projects = () => {
       linkText: " Learn more by playing the Game",
       linkUrl: "https://drive.google.com/drive/folders/1Zy66CA6FZBMfTYrPMFjAsd-6tf5tXfnS?usp=share_link"
     },
+
+
+    {
+      title: "PokéAdventure VR",
+      description: "An immersive VR Pokémon-themed adventure game where players explore a vibrant world, capture Pokémon, and complete challenges.",
+      imgUrl: vrgame,
+      linkText: " Watch the Video to watch the Game",
+      linkUrl: "https://drive.google.com/file/d/1fansWAxvYTSRHcDTYsZbhPYHTm1XczQJ/view?usp=sharing"
+    },
+
+    {
+      title: "Mobile AR Challenges Game",
+      description: "Four-level Android AR game: shoot cubes, collect keys, answer quizzes, and fight with a boss",
+      imgUrl: argame,
+      linkText: " Watch the Video to watch the Game",
+      linkUrl: "https://drive.google.com/file/d/1xnjFdTEBtJf3uNC47Ou6zZT82OOxffhB/view?usp=sharing"
+    },  
+    
+    {
+      title: "Marker-Based AR Experience",
+      description: "Supports simultaneous multi-marker tracking, real-time pose updates, and pre-scaled model alignment.",
+      imgUrl: marker,
+      linkText: " Learn more about the code for the experience",
+      linkUrl: "https://github.com/sarahhsallam2/AR_First_Task.git"
+    },
+
+
+    {
+      title: "Potion Class in Flames",
+      description: "A cinematic short movie where a wizard apprentice accidentally triggers magical chaos, so the wizard is trying to save the day.",
+      imgUrl: wizard,
+      linkText: " Watch the Video to watch the Movie",
+      linkUrl: "https://drive.google.com/file/d/1-s2lBwtjXhufFgOfRNvAIQKU3_S4iQGw/view?usp=sharing"
+    },
+
+
+    // {
+    //   title: "Endless Runner Game",
+    //   description: "An endless runner game inspired by Sky Roads, similar to Subway Surfers, where the player navigates through a dynamic, obstacle-filled road. ",
+    //   imgUrl: skyRoad,
+    //   linkText: " Learn more by playing the Game",
+    //   linkUrl: "https://drive.google.com/drive/folders/1Zy66CA6FZBMfTYrPMFjAsd-6tf5tXfnS?usp=share_link"
+    // },
   
   ];
 

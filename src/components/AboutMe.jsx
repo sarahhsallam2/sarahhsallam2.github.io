@@ -10,18 +10,21 @@ export const AboutMe = () => {
             <div className="about-me-text">
               <h2>About Me</h2>
               <p>
-              Hi, I'm <b>Sara Khaled</b>, a passionate software engineer with a love for technology and creative problem-solving. I am a senior student in Computer Science and Computer Engineering at the German University in Cairo (GUC). 
-              I love learning, creating, and solving problems. 🚀 Whether it’s coding, designing games, or teaching others, I enjoy using my skills to make ideas come to life. 💻✨
-                I specialize in <b>web development</b>, <b>game development</b>, and <b>VR solutions</b>, aiming to create immersive and user-friendly experiences. I’m curious about how things work and love finding smart ways to fix or build things. 
+              Hi, I am <b>Sara Khaled</b>, a senior student in Computer Science and Computer Engineering at the German University in Cairo (GUC). 
+              As a passionate software engineer and proactive problem solver, I am dedicated to continuous learning, creative problem-solving, and turning ideas into reality through coding, game design, and mentoring others.
+              I specialize in <b>Web Development</b>, <b>Full Stack Architectures</b>, <b>Game Development</b>, and <b>VR/AR Solutions</b>, aiming to create immersive and user-friendly experiences. 
               </p>
               <p>
-                My journey into tech started with a fascination for how things work. Over the years, I've improved my skills in languages like <b>JavaScript</b>, <b>Python</b>, <b>C#</b>, and frameworks such as <b>ReactJS</b>, <b>Unity</b>, and <b>NestJS</b>.  In my free time, I’m all about space adventures, games, and exploring new tech. 🌌🎮 I believe in turning dreams into real things that can make a difference! 🌍💡
+                My journey into tech started with a fascination for how things work. Over the years, I've improved my skills in languages like <b>Java</b>, <b>JavaScript</b>, <b>Python</b>, <b>C#</b>, <b>TypeScript</b>, <b>CSS</b>, <b>MEL</b>, <b>Prolog</b>, and frameworks such as <b>ReactJS</b> and <b>NestJS</b>.
+                I have built full-stack apps with <b>ReactJS</b>, <b>MERN Stack</b>, and engineered microservices using <b>Spring Boot</b>, <b>Docker</b>, <b>Kubernetes</b>, <b>RabbitMQ</b>, and <b>Redis</b> while managing databases like <b>MongoDB</b>, <b>PostgreSQL</b>, and <b>Microsoft SQL Server</b>.  
+                I also create immersive AR/VR experiences in <b>Unity</b> and tackle animation & 3D simulation with <b>Blender</b> and <b>Maya</b>. In my free time, I’m all about space adventures, game development, and exploring emerging tech. I believe in turning dreams into real solutions that make a difference! 
               </p>
+
               <p>
-                Beyond coding, I enjoy exploring emerging technologies, reading about space exploration, and engaging in outdoor adventures. Let's connect and collaborate on something impactful!
+                Outside of software engineering, I explore emerging technologies, read about space exploration, and pursue outdoor adventures. I would welcome the opportunity to connect and build innovative, real-world solutions together.  Let's connect and collaborate on something impactful!
               </p>
               <p> 
-              You can view my detailed CV here: <a href="https://drive.google.com/file/d/1UIAU6lB-cu3kR9DDAlATP5I4KizZCqmS/view?usp=share_link" target="_blank" rel="noopener noreferrer">My CV</a>
+              You can view my detailed CV here: <a href="https://drive.google.com/file/d/1Nz0RHEwfmQwOGBaNKP4a_LD30qiBkP1w/view?usp=sharing" target="_blank" rel="noopener noreferrer">My CV</a>
               </p>
 
             </div>

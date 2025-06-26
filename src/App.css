@@ -695,3 +695,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #b8b8b8; /* Subtle text for readability */
   margin-bottom: 20px;
 }
+
+.project-image {
+  width: 100%;           /* Fill available space */
+  height: 250px;           /* Fixed height for consistency */
+  object-fit: cover;       /* Maintains aspect ratio, cropping if needed */
+  border-radius: 8px;      /* Optional rounded corners */
+}

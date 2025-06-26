@@ -21,7 +21,14 @@ import git from "../assets/img/logos/git.svg";
 import docker from "../assets/img/logos/docker.svg";
 import HTML from "../assets/img/logos/HTML.svg";
 import CSS from "../assets/img/logos/CSS.svg";
+import blender from "../assets/img/logos/blender.svg";
+import RabbitMQ from "../assets/img/logos/rmq.svg";
 import unity from "../assets/img/logos/unity.svg";
+import redis from "../assets/img/logos/redis.svg";
+import mel from "../assets/img/logos/mel.svg";
+import maya from "../assets/img/logos/maya.svg";
+import kuber from "../assets/img/logos/kuber.svg";
+
 export const TechStack = () => {
   const responsive = {
     superLargeDesktop: {
@@ -43,9 +50,9 @@ export const TechStack = () => {
   };
 
   const skills = [
-    { category: "Programming Languages", items: ["JavaScript","Java", "Prolog","C and C++","C#","TypeScript","HTML","CSS", "Python"] },
-    { category: "Frameworks & Technologies", items: ["Node.js", "NestJS","ExpressJS", "ReactJS", "Unity"] },
-    { category: "DevOps & Tools", items: ["Docker", "Minio", "Git"] },
+    { category: "Programming Languages", items: ["JavaScript","Java", "Prolog","C and C++","C#","TypeScript","HTML","CSS", "Python", "MEL"] },
+    { category: "Frameworks & Technologies", items: ["Node.js", "NestJS","ExpressJS", "ReactJS", "Unity", "Blender", "Maya"] },
+    { category: "DevOps & Tools", items: ["Docker", "Kubernetes", "RabbitMQ", "Redis", "Minio", "Git"] },
     { category: "Databases", items: ["PostgreSQL", "MongoDB", "MySQL"] },
   ];
 
@@ -105,8 +112,29 @@ export const TechStack = () => {
                 return <img src={mongodb} alt="Mongodb Logo" className="tech-logo" />;
             
             case "MySQL":
-                return <img src={mysql} alt="MySQL Logo" className="tech-logo" />;  
-                                                                                        
+                return <img src={mysql} alt="MySQL Logo" className="tech-logo" />; 
+                
+            case "MEL":
+              return <img src={mel} alt="MEL Logo" className="tech-logo" />; 
+
+            case "Blender":
+              return <img src={blender} alt="Blender Logo" className="tech-logo" />; 
+
+            case "Maya":
+              return <img src={maya} alt="Maya Logo" className="tech-logo" />; 
+
+           
+            case "Kubernetes":
+                return <img src={kuber} alt="Kubernetes Logo" className="tech-logo" />; 
+            case "RabbitMQ":
+                return <img src={RabbitMQ} alt="RabbitMQ Logo" className="tech-logo" />; 
+
+            case "Redis":
+              return <img src={redis} alt="Redis Logo" className="tech-logo" />; 
+
+             
+
+                                                                                       
             default:
                 return null;
             
