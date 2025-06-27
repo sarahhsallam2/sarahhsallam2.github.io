@@ -48,7 +48,7 @@ export const Skills = () => {
                   <h3>Back-End</h3>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="Image" />
+                  <img src={meter1} alt="Image" />
                   <h3>VR Game Development (Oculus Quest, Unity)</h3>
                 </div>
                 <div className="item">
