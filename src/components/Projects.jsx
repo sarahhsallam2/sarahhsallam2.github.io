@@ -61,7 +61,7 @@ export const Projects = () => {
     },
     {
       title: "My Profile",
-      description: "a website for My Profile",
+      description: "A website for My Profile",
       imgUrl: myprofile,
       linkText: " Learn more about the code for my profile",
       linkUrl: "https://github.com/sarahhsallam2/Space-Exploration-Game"

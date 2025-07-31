@@ -24,7 +24,11 @@ export const AboutMe = () => {
                 Outside of software engineering, I explore emerging technologies, read about space exploration, and pursue outdoor adventures. I would welcome the opportunity to connect and build innovative, real-world solutions together.  Let's connect and collaborate on something impactful!
               </p>
               <p> 
-              You can view my detailed CV here: <a href="https://drive.google.com/file/d/1Nz0RHEwfmQwOGBaNKP4a_LD30qiBkP1w/view?usp=sharing" target="_blank" rel="noopener noreferrer">My CV</a>
+              You can view my detailed Full Stack CV here: <a href="https://drive.google.com/file/d/1lce9JvBJgDqG2m3cM1U-xu8tr5BJl-FZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">My CV</a>
+              </p>
+
+              <p> 
+              You can view my detailed Game Development CV here: <a href="https://drive.google.com/file/d/149vcXNIPmxBLfWi5sYhQcwnXK6OAoMtQ/view?usp=share_link" target="_blank" rel="noopener noreferrer">My CV</a>
               </p>
 
             </div>
