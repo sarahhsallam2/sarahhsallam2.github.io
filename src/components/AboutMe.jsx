@@ -28,7 +28,7 @@ export const AboutMe = () => {
               </p>
 
               <p> 
-              You can view my detailed Game Development CV here: <a href="https://drive.google.com/file/d/149vcXNIPmxBLfWi5sYhQcwnXK6OAoMtQ/view?usp=share_link" target="_blank" rel="noopener noreferrer">My CV</a>
+              You can view my detailed VR and Game Development CV here: <a href="https://drive.google.com/file/d/149vcXNIPmxBLfWi5sYhQcwnXK6OAoMtQ/view?usp=share_link" target="_blank" rel="noopener noreferrer">My CV</a>
               </p>
 
             </div>
